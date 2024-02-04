@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+   <h2>FORM</h2>
+<fieldset>
+    <legend>Information</legend>
+<form>
+Name:
+<input type="text" placeholder="yourname"><br><br>
+Father Name:
+<input type="text" placeholder="name">
+<br><br>
+Mother Name:
+<input type="text" placeholder="name">
+<br><br>
+mobile number:
+<input type="number" placeholder="mob nos">
+<br><br>
+Gender:
+<input type="radio" name="hello">
+male
+<input type="radio" name="hello">
+female
+<br><br>
+Address:
+<input type="text" >
+<br><br>
+date of birth:
+<input type="date">
+<br><br>
+<input type="submit" >
+</fieldset>
+</form>
+
+
+
+
+
+</fieldset>
+
+
+
+</body>
+</html>
